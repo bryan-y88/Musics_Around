@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Music\'s Around</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dj">DJ Mode</string>
+    <string name="title_activity_speaker">Speaker Mode</string>
+    <string name="title_activity_wifidirect">Wi-Fi Direct</string>
+    <string name="enable_p2p_button">P2P Settings</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="connect_peer_button">Connect</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="get_file_button">Select File</string>
+    <string name="empty"></string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="client_text">This device will act as a client. Click on button to pick a local(stored) file</string>
+    <string name="empty_message">No devices found. Turn on P2P and perform discovery</string>
+    <string name="p2p_off_warning">Please enable P2P system settings</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="label_me">ME</string>
+    <string name="label_peers">PEERS</string>
+    <string name="title_activity_wi_fi_direct2">WiFi Direct Connect</string>
+    <string name="play_music">PLAY</string>
+    <string name="stop_music">STOP</string>
+    
+    <string name="title_activity_mode_select">ModeSelectActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_speaker_mode">SpeakerModeActivity</string>
+
+</resources>
